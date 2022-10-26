@@ -1,4 +1,5 @@
 # Insurance-claims
+## Hypothesis Testing and Statistical Analysis
 Dataset
 1. Age: Integer indicating the age of the primary beneficiary(excluding those above 64yrs, since they are generally covered by the government).
 2. Sex: Policy holder's gender, either male or female.
