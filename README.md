@@ -20,7 +20,8 @@ The primary goal of this project is to create a reliable predictive model that c
 1. Two-Sample t-test: The two-sample t-test is a statistical test used to determine if the means of two independent groups are significantly different from each other. In the context of this project, the two-sample t-test can be applied to compare the average healthcare insurance charges between two groups, such as smokers and non-smokers. By conducting this test, we can assess whether there is a significant difference in insurance charges based on smoking status.
 2. Chi-Square test: The chi-square test is a statistical test used to determine if there is a significant association between two categorical variables. In this project, the chi-square test can be applied to analyze the relationship between two categorical variables, such as region and smoker status. By conducting this test, we can assess whether there is a significant association between the region where an individual resides and their smoking behavior.
 3. ANOVA test (Analysis of Variance): The ANOVA test is a statistical test used to determine if there are statistically significant differences between the means of three or more independent groups. In the context of this project, the ANOVA test can be applied to analyze the differences in healthcare insurance charges among individuals from different regions. By conducting this test, we can assess whether there are significant variations in insurance charges based on geographic location.
-Dataset
+
+## Dataset Description
 1. Age: Integer indicating the age of the primary beneficiary(excluding those above 64yrs, since they are generally covered by the government).
 2. Sex: Policy holder's gender, either male or female.
 3. BMI: Body Mass Index, which provides a sense of how over or under-weight a person is relative to their height. BMI is equal to weight (in kg) divided by height (in metres) squared. An ideal BMI is within the range of 18.5 to 24.9. 
